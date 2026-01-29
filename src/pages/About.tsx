@@ -108,7 +108,7 @@ export default function About() {
               </div>
               <div className="space-y-4">
                 <div>
-                  <h3 className="text-lg font-medium">John Doe</h3>
+                  <h3 className="text-lg font-medium">Ritanshu patel</h3>
                   <p className="text-sm text-muted-foreground">Founder & Developer</p>
                 </div>
                 <p className="text-muted-foreground leading-relaxed">
@@ -117,7 +117,7 @@ export default function About() {
                 <div className="flex gap-3">
                   <Button variant="outline" size="sm" asChild>
                     <a 
-                      href="https://github.com" 
+                      href="https://github.com/RitanshuPatelMMR/"
                       target="_blank" 
                       rel="noopener noreferrer"
                       aria-label="GitHub Profile"
@@ -128,7 +128,7 @@ export default function About() {
                   </Button>
                   <Button variant="outline" size="sm" asChild>
                     <a 
-                      href="https://linkedin.com" 
+                      href="https://www.linkedin.com/in/ritanshupatel/"
                       target="_blank" 
                       rel="noopener noreferrer"
                       aria-label="LinkedIn Profile"
