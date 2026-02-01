@@ -17,7 +17,7 @@
       "destination": "/api/$1"
     },
     {
-      "source": "/(.*)",
+      "source": "/((?!@vite|@react-refresh|node_modules|src).*)",
       "destination": "/index.html"
     }
   ],
